@@ -1,0 +1,7 @@
+# Social media links and usernames. Displayed in the order defined here.
+# Docs: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CV_ChristopheHatterer.pdf # path to your CV PDF file
+email: christophe@hatterer.net
+github: Psych17101
+linkedin: christophehahatterer
+rss_icon: false

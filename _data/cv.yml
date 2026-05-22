@@ -1,0 +1,131 @@
+cv:
+  name: Christophe Hatterer
+  label: Computational Science & Engineering · Scientific Python & Simulation
+  email: christophe@hatterer.net
+  phone: "+41 76 758 4748"
+  location: Zürich, Switzerland
+  image: prof_pic.jpg
+  summary: >
+    MSc candidate in Computational Science & Engineering at ETH Zürich, with an MIT thesis on
+    mixed-variable Bayesian optimisation for engineering design. I build structured, tested
+    scientific Python (pytest, ruff, mypy) and have contributed 3D generative models to the
+    open-source EngiOpt library. Native French and English, German B1.
+
+  social_networks:
+    - network: GitHub
+      username: Psych17101
+    - network: LinkedIn
+      username: christophehahatterer
+
+  sections:
+    Education:
+      - institution: Massachusetts Institute of Technology (MIT) — DeCoDe Lab
+        location: Cambridge, MA, USA
+        area: Mechanical Engineering — MSc Thesis
+        studyType: Visiting Researcher
+        start_date: 2026-03-01
+        end_date: 2026-09-01
+        highlights:
+          - "Thesis — Mixed-Variable Bayesian Optimization for Engineering Problems with Tabular Foundation Models."
+          - "Supervised by Prof. Faez Ahmed and Prof. Mark Fuge."
+
+      - institution: ETH Zürich
+        location: Zürich, Switzerland
+        area: Mechanical Engineering — Computational Science & Engineering
+        studyType: MSc
+        start_date: 2024-09-01
+        end_date: 2026-09-01
+        courses: "Probabilistic Artificial Intelligence; Optimization and Machine Learning; High-Performance Computing for Engineers; Engineering Design Optimization"
+
+      - institution: EPFL — École Polytechnique Fédérale de Lausanne
+        location: Lausanne, Switzerland
+        area: Mechanical Engineering (specialisation Applied Mathematics)
+        studyType: BSc
+        start_date: 2020-09-01
+        end_date: 2023-09-01
+
+      - institution: TU Delft
+        location: Delft, Netherlands
+        area: Aerospace Engineering
+        studyType: Exchange Year
+        start_date: 2022-08-01
+        end_date: 2023-06-01
+
+    Experience:
+      - company: Hitachi Energy Ltd.
+        position: Multi-Physics Simulations Engineer (Internship)
+        location: Baden-Dättwil, Switzerland
+        start_date: 2025-08-01
+        end_date: 2026-02-01
+        highlights:
+          - "Built multi-physics COMSOL models of self-healing behaviour in HV transformer capacitors, with Python post-processing and analysis tooling."
+          - "Lead-authored an internal research paper on the multi-physics modelling framework."
+
+      - company: Axalp Technologies
+        position: Aerospace Engineer (Internship)
+        location: Olten, Switzerland
+        start_date: 2023-09-01
+        end_date: 2024-06-01
+        highlights:
+          - "Developed dynamic simulation models for aircraft landing-gear kinematics."
+          - "Led end-to-end development of a lightweight auxiliary battery-pack cooling system in Siemens NX (~30% weight reduction)."
+
+    Research:
+      - company: Computational Mechanics Group, ETH Zürich
+        position: Research Assistant
+        location: Zürich, Switzerland
+        start_date: 2024-09-01
+        end_date: 2025-08-01
+        highlights:
+          - "Built a Python data-processing pipeline on SLURM-managed HPC clusters for large X-ray CT datasets."
+          - "Studied fracture propagation in heterogeneous materials (X-ray CT, in-situ testing, digital volume correlation)."
+
+      - company: IDEAL Lab — AI in Engineering Design
+        position: MSc Semester Project (Open-Source Contribution)
+        location: Zürich, Switzerland
+        start_date: 2025-06-01
+        end_date: 2025-08-01
+        highlights:
+          - "Extended generative models (GANs, SliceGAN, multi-variable VAE) to the 3D domain for engineering design."
+          - "Contributed the 3D models to open-source EngiOpt via a maintainer-reviewed pull request (~2,100 lines)."
+
+    Leadership:
+      - company: aCentauri Solar Racing
+        position: Mechanical System Advisor
+        location: Zürich, Switzerland
+        start_date: 2024-07-01
+        end_date: 2025-01-01
+        highlights:
+          - "Advised 20+ members across Aerodynamics, Mechanical, and Structures for BWSC 2025 (3000 km solar endurance race)."
+          - "Set up GANTT scheduling, budgeting (~CHF 150K), and systems-engineering practices."
+
+      - company: NOVA Electric Racing
+        position: Lead Chassis Engineer
+        location: Maassluis, Netherlands
+        start_date: 2021-10-01
+        end_date: 2022-06-01
+        highlights:
+          - "Led a team of 6 prototyping an electric racing-bike chassis."
+          - "FEM analysis (Ansys) of 20+ components; flax-fibre composite bodywork using DFM."
+
+    Skills:
+      - name: Programming
+        keywords: "Python, C/C++, Julia, Matlab, Fortran, VBA, OpenMP"
+      - name: Scientific Python
+        keywords: "NumPy, SciPy, pandas, PyTorch, BoTorch, GPyTorch"
+      - name: Software & Tooling
+        keywords: "Git, pytest, ruff, mypy, pip/hatch packaging, Docker, Hydra, Weights & Biases, SLURM/HPC, PostgreSQL"
+      - name: Methods
+        keywords: "Bayesian Optimisation, Machine Learning, Generative AI, Numerical Methods, Multi-physics Simulation, FEM"
+      - name: Simulation & CAD
+        keywords: "COMSOL, Ansys, Abaqus, FEMAP, Siemens NX, Solidworks"
+
+    Languages:
+      - name: French
+        summary: "Native"
+      - name: English
+        summary: "Native"
+      - name: German
+        summary: "B1"
+      - name: Mandarin
+        summary: "Limited"
