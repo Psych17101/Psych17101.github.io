@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Psych17101.github.io/sitemap.xml
